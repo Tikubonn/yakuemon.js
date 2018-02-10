@@ -15,7 +15,7 @@ right side is a class name for matched token.
 last, mark the target by a method of applySelector :D
 
 まず最初にYakuemonのインスタンスを生成してあげてください。  
-Yakuemonの引数には、対象となる約物と、マーク時に使用するクラス名の対応を記したオブジェクトを与えてあげてください。  
+Yakuemonの引数には、対象となる約物と、マーク時に使用するクラス名の対応を記したオブジェクトを与えてあげてください。
 最後に、生成したインスタンスからapplySelectorメソッド等を用いて、要素に適応させれば完了です。
 
 ```
